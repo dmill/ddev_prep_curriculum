@@ -23,6 +23,7 @@ Additionally, if you begin to struggle with any of the problems. Try a) going ba
 # Ruby Monk & Code School
 
 <https://rubymonk.com/learning/books/1-ruby-primer>
+
 <https://www.codeschool.com/courses/try-ruby>
 
 It is imperative that each of you feels very solid with the basic programming concepts presented in the DDev guide and Code Academy lessons above. As such, we're also going to have you take a look at a few more free resources online to make sure that it's all sticking. First, take a look at [Ruby Monk](https://rubymonk.com/learning/books/1-ruby-primer), and try out their **Ruby Primer** course. You can stop at the section on Hashes - we'll get into the later material further into our prep.
