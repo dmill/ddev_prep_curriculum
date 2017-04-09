@@ -41,5 +41,11 @@ Yep, we're back to Code Academy. Unfortunately at this point you're probably goi
 
 Launch School has some great free resources that we'll see more of later. At the beginning of this guide, they're going to ask you to use a cloud service like Cloud 9 or Digital Ocean if you don't feel comfortable working directly on your own computer (it is possible to mess things up learning the command line on your own computer, but if you're careful you should be fine. Additionally, if you frequently back up your computer, which you should be doing anyway, this shouldn't be an issue.). If you don't want to use your computer, or if you are not running OS X or some flavor of Linux (i.e. Windows I'm assuming), you can use Cloud 9 as they suggest or look ahead to the next section ([Part 2](part2_ddev_environment.md)) of this curriculum and you can use the DDev environment instead! (You're going to have to set this up anyway).
 
+## Practice
 
-https://www.codecademy.com/articles/command-line-commands
+One of the best ways to level-up your skils with the command line is to force yourself to start using it for routine tasks. While you're on your computer and you want to perform some operation - let's say opening Google Chrome, creating a new folder, unzipping a .zip file you downloaded, etc. - see if you can figure out how to do it from the command line. At first it's going to be a lot more tedious, but it will get easier and easier as you learn and memorize commands. The more you can do this the better, and it will prepare you to have a significant productivity advantage when Destination: Dev starts.
+
+## Cheatsheets
+<https://www.cheatography.com/davechild/cheat-sheets/linux-command-line/>
+
+<https://www.codecademy.com/articles/command-line-commands>
