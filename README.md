@@ -24,11 +24,11 @@ With that, head over to [Part 0](part0_the_basics.md) and get ready to start lea
 
 [Part 1: The Command Line](part1_the_command_line.md)
 
-[Part 2: DDev Development Environment](part2_ddev_environment.md)
+[Part 2: Cloud9 Setup](part2_cloud9_setup.md)
 
 [Part 3: Chris Pine Learn to Program](part3_chris_pine_learn_to_program.md)
 
-[Part 4: Enumerables](part4_enumerables.md)
+[Part 4: Enumerables & Rspec](part4_enumerables.md)
 
 [Part 5: Blocks, Procs, & Lambdas](part5_blocks_procs_lambdas.md)
 

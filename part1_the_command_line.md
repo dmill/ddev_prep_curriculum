@@ -39,7 +39,7 @@ Yep, we're back to Code Academy. Unfortunately at this point you're probably goi
 
 <https://launchschool.com/books/command_line/read/introduction>
 
-Launch School has some great free resources that we'll see more of later. At the beginning of this guide, they're going to ask you to use a cloud service like Cloud 9 or Digital Ocean if you don't feel comfortable working directly on your own computer (it is possible to mess things up learning the command line on your own computer, but if you're careful you should be fine. Additionally, if you frequently back up your computer, which you should be doing anyway, this shouldn't be an issue.). If you don't want to use your computer, or if you are not running OS X or some flavor of Linux (i.e. Windows I'm assuming), you can use Cloud 9 as they suggest or look ahead to the next section ([Part 2](part2_ddev_environment.md)) of this curriculum and you can use the DDev environment instead! (You're going to have to set this up anyway).
+Launch School has some great free resources that we'll see more of later. At the beginning of this guide, they're going to ask you to use a cloud service like Cloud9 or Digital Ocean if you don't feel comfortable working directly on your own computer (it is possible to mess things up learning the command line on your own computer, but if you're careful you should be fine. Additionally, if you frequently back up your computer, which you should be doing anyway, this shouldn't be an issue.). If you don't want to use your computer, or if you are not running OS X or some flavor of Linux (i.e. Windows I'm assuming), you can use Cloud9 as they suggest and follow our guide in the next section to get that set up ([Part 2](part2_cloud9_setup.md)).
 
 ## Practice
 
