@@ -109,6 +109,31 @@ RSpec is a testing framework that allows us to test our code in an easily readab
 
 # Exercises
 
-Okay, now we're ready to get going on some exercies in order to get some practice with some enumerable methods and to test out RSpec. So go ahead and hop over to the Cloud9 workspace you created
+Okay, now we're ready to get going on some exercies in order to get some practice with some enumerable methods and to test out RSpec. So go ahead and hop over to the Cloud9 workspace you created, and make sure that you have the command line up. You should currently be in the `~/workspace` directory, which corresponds to this git repo.
+
+If you type in `ls`, you should see all of the same files that you see in the folder sidebar on the left.
+
+Next type in `cd exercies` to change to the `exercises` directory. If you check out the Gemfile in this directory, you should see that we're including the RSpec gem mentioned above. In order to use RSpec we have to install it in our workspace. In order to do this, we can you use bundler - the ruby package manager you learned about above. Execute the following from inside the `exercises` directory:
+
+```
+gem install bundler
+bundle install
+```
+
+Now Rspec should be installed. Now move to the part4 directory:
+
+```
+cd part4
+```
+
+Here you'll see two files - one called enumerables.rb, and the other called enumerables_spec.rb. enumerables.rb contains the exercises you'll be working on here. Go ahead and open it up and take a look. Now, you can look at the enumerables_spec.rb file. Here you'll see all of the RSpec tests to test your solutions in the enumerables.rb file. Now let's run the tests!
+
+```
+bundle exec rspec enumerables_spec.rb
+```
+
+`rspec` is a command we can use to run our tests that's included with the rspec gem. We prepend our command with `bundle exec` to make sure we're using the version of rspec we just installed with bundler rather than some other version of rspec that could be installed on our machine and could be a different version.
+
+After running the command above, you should see output telling you precisely what happened on each of the tests. At the bottom, you should see a summary telling you "18 examples, 18 failures". All of the tests failed, and this is to be expected because you haven't filled in any solutions yet. Your mission is to get the above command to tell you that all of your tests passed - i.e. "18 examples, 0 failures". When you see that you're all done here, so start filling in the methods in enumerable.rb!
 
 
