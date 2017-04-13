@@ -36,7 +36,7 @@ With that, head over to [Part 0](part0_the_basics.md) and get ready to start lea
 
 [Part 7: Object Oriented Programming II](part7_oo_2.md)
 
-[Part 8: Code Style](part8_code_style.md)
+[Part 8: Refactoring](part8_refactoring.md)
 
 [Part 9: HTML/CSS](part9_html_css.md)
 
