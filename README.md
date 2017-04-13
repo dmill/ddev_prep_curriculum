@@ -13,6 +13,35 @@ In order to ensure that we are able to hit the ground running on the first day o
 ## Time Commitment
 Each of you is coming into this curriculum with a different level of preexisting experience both with Ruby and with programming in-general. Each of you also has a unique learning style and picks up concepts at a different rate. As such, each of you will take your own amount of time to finish this material and get comfortable with the concepts and writing code. However, to give you an upper estimate of the amount of time you can expect to devote to your preparation, **if you are coming into the course with very little to no programming experience, you should expect to spend 80-100 hours on preparation**.
 
+## Github Account
+You're probably reading this on Github right now, but if you haven't done so yet please create a Github account.
+
+<https://github.com/>
+
+
+## Medium and Journaling
+One of the most effective ways to integrate a new educational experience is to write about it. So, we'd like each of you to write a bit about your experiences, including the highs and lows, on our Medium publication (<https://medium.com/destination-dev>). There's nothing there yet, but that's where you come in!
+
+Please head over to Medium and create an account if you don't already have one:
+
+<https://medium.com/>
+
+Once you have your account set up, send me a slack message or email with your username and I'll add you to our publication. We'd like everyone to write at least one story prior to arriving for the start of class, and at least one closer to the end of the course. If you'd like to write more than that you're absolutely encouraged to do so.
+
+Writing on Medium will not only help you to process what you're learning, but will also help you to start establishing credibility. Having successful articles and a social media presence online will help you a lot with potential employers and clients. This is especially true if you're hoping to become a digital nomad freelancer. Clients respond well to the social proof provided by a strong presence online.
+
+
+## Introductory Video
+In order for everyone to get to know one another prior to the start of the course and facilitate more collaboration on the prep material, we'd like each of you to record a short video introducing yourself to the group. This video is informal, so don't spend a lot of time editing it or anything like that - just make sure we can see your face during the video and that you answer the following questions:
+
+1. What's your name?
+2. Where are you from?
+3. What have you been up to recently?
+4. What excites you most about participating in Destination: Dev?
+5. What do you hope to gain from our course and community?
+
+You can upload your video yourself to Youtube, Facebook, Instagram - pretty much wherver you want - it just needs to be accesible on the internet for everyone to see. With your permission, we'd also like to share these videos on social media so everyone can get a chance to meet our first class! Let us know if you'd like us to exclude you from this for whatever reason.
+
 ## Feedback
 Additionally, as you all know you are participating in the first iteration of Destination: Dev. So, it is very important that you take an active role in your learning process and give us feedback on any problems that you experience throughout the process. We know that we will make some mistakes, but we are committed to integrating your feedback and improving our curriculum and processes in real time. So, if anything in this guide is unclear, inconsistent, not detailed enough, or less than ideal in any way at all I want to know about it immediately! Please give me feedback often on Slack @doug or via email at doug@destinationdev.com.
 
