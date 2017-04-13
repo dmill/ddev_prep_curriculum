@@ -24,6 +24,11 @@ Here's a fun programming game by Bloc.io that will help you continue to practice
 
 <https://www.bloc.io/ruby-warrior#/>
 
+## Ruby Monk
+
+<https://rubymonk.com/>
+
+Go over the rest of what Ruby Monk has to offer. We didn't do the whole thing, and there is a lot more valuable material here.
 
 ## Problems
 
