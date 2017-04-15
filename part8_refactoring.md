@@ -20,7 +20,7 @@ The concept of DRY (Don't Repeat Yourself) is fundamental to writing high-qualit
 
 ## Single Responsibility Principle
 
-The single responsibility principle states that each unit of our code - be it a function, method, class, or module - should only be responsible for on piece of functionality in a program. The importance of this concept cannot be stressed enough, and if kept in mind can go a long way to improving all 5 of the common rfeactoring considerations listed above. Read more about SRP here:
+The single responsibility principle states that each unit of our code - be it a function, method, class, or module - should only be responsible for one piece of functionality in a program. The importance of this concept cannot be stressed enough, and if kept in mind can go a long way to improving all 5 of the common refactoring considerations listed above. Read more about SRP here:
 
 <https://en.wikipedia.org/wiki/Single_responsibility_principle>
 
@@ -30,12 +30,12 @@ The single responsibility principle states that each unit of our code - be it a 
 
 ## Code Style
 
-While a lot about style is subjective, every programming language has style standards that programmers have coalesced around organically. Ruby is no exception. Whenever possible, try to follow the style rules in the guide below, but keep in mind that style has a lot to do with preference. If you have a good reason for not following one of the rules (even if that rule is just that you prefer your code to look a different way), feel free to follow your own aesthetic.
+While considerations about style are subjective, every programming language has style standards that programmers have coalesced around organically. Ruby is no exception. Whenever possible, try to follow the style rules in the guide below, but keep in mind that style has a lot to do with preference. If you have a good reason for not following one of the rules (even if that reason is just that you prefer to structure your code a different way), feel free to follow your own aesthetic.
 
 <https://github.com/bbatsov/ruby-style-guide>
 
 ## Exercises
 
-There are no specific exercises here for this section. However, you have written a lot of code recently, and I'd be willing to bet you haven't refactored most of it. Take a look at some of your solutions to previous exercises here or elsewhere, and see how you can apply the principles above to improve it.
+There are no specific exercises here for this section. However, you have written a lot of code recently, and I'd be willing to bet you haven't refactored most of it. Take a look at some of your solutions to previous exercises here or elsewhere, and see how you can apply the principles above to improve them.
 
 
