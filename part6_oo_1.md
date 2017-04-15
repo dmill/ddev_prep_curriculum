@@ -7,7 +7,7 @@ Now we're going to learn about the fundamental way of modeling data and designin
 
 In object-oriented programming, we couple our data and our functions into something called an object. An object contains data along with methods. The object can be said to possess both the data and the methods, and the object's state can be modified by its methods.
 
-In object oriented programming, objects are built from classes. Classes can be thought of as templates for constructing objects of a certain type. Objects that are created from a particular class are said to be *instances* of that class. A strong understanding of object-oriented fundamentals will be crucial to understanding how Rails works. So, to get more in-depth on the basic concepts of OO, check out the following resources:
+In object-oriented programming, objects are built from classes. Classes can be thought of as templates for constructing objects of a certain type. Objects that are created from a particular class are said to be *instances* of that class. A strong understanding of object-oriented fundamentals will be crucial to understanding how Rails works. So, to get more in-depth on the basic concepts of OO, check out the following resources:
 
 ### Code Academy
 

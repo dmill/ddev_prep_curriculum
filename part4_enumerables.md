@@ -93,9 +93,9 @@ Go over the section on enumerables:
 
 # Gems
 
-In order to gear you up for the exercises you're going to get into in this section, let's do a brief introduction to gems in Ruby. In Ruby, gems are self-contained software libraries that you can include in your projects. Ruby gems are generally associated with open-source software, and even one of the most important tools we'll use later in this course, Ruby on Rails, will be included in your projects as a gem. Gems don't have to be open-source, though, and many companies have their own internal closed source gems. You can check out all of the publicly available gems from the biggest repository on the internet, <https://rubygems.org/>.
+In order to gear you up for the exercises you're going to get into in this section, let's do a brief introduction to gems in Ruby. In Ruby, gems are self-contained software libraries that you can include in your projects. Ruby gems are generally associated with open-source software, and even one of the most important tools we'll use later in this course, Ruby on Rails, will be included in your projects as a gem. Gems don't have to be open-source, though, and many companies have their own internal closed-source gems. You can check out all of the publicly available gems from the biggest repository on the internet, <https://rubygems.org/>.
 
-To get a bit more background on what gems are and how they work, read the sections in the Launch School guide to Ruby tools on gems and bundler:
+To get a bit more background on what gems are and how they work, read the sections in the Launch School Guide to Ruby Tools on gems and bundler:
 
 <https://launchschool.com/books/core_ruby_tools/read/gems>
 

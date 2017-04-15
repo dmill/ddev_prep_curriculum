@@ -1,12 +1,12 @@
 # Refactoring
 
-Just like an author writing a book, a journalist writing a news article, or a college student writing an essay, a programmer is not done with a program just because the code runs. The programmer is not even necessarily done if the program is bug free. Just like with prose, writing code is a process that is done in drafts. And, just like with any essay you wrote in high school, the first draft is generally not very good. Refactoring is the process of rewriting our code to make it better. We can refactor our code to make it:
+In many respects, the process of writing software is similar to the process of writing prose. Good programmers write their code in drafts, and the process of producing reliable software is not done when the code runs. The programmer is not even necessarily done if the program is bug free. And, just like with any essay you wrote in high school, the first draft is generally not very good. Refactoring is the process of rewriting our code to make it better. We can refactor our code to make it:
 
-1. More performant. We often don't see performance problems with our code until we have real users interacting with it in a live environment. We can refactor our code to make it faster or use less memory.
-2. Bug free. No matter how many tests you write or how thoroughly you QA your code, it will inevitably have bugs. Rewriting code is crucial to fixing unintended behavior.
-3. Extensible. Often times, systems will be written with a fairly small scope in mind, and then will become one of the building blocks of a much more complex system. We can change the organization and architecture of our code in order to make it easier to change and build on top of.
-4. Understandable. We're not only communicating with the computer with our code - we're also communicating with other developers who will have to read it later. Code should not be esoteric and complicated - it should be clear and simple.
-5. Aesthetically pleasing. Everyone prefers to read code that adheres to style conventions and is symmetrical on the page. Ruby is known as being one of the most beautiful programming languages - try to keep it that way.
+1. **More performant.** We often don't see performance problems with our code until we have real users interacting with it in a live environment. We can refactor our code to make it faster or use less memory.
+2. **Bug free.** No matter how many tests you write or how thoroughly you QA your code, it will inevitably have bugs. Rewriting code is crucial to fixing unintended behavior.
+3. **Extensible.** Often times, systems will be written with a fairly small scope in mind, and then will become one of the building blocks of a much more complex system. We can change the organization and architecture of our code in order to make it easier to modify and build on top of.
+4. **Understandable.** We're not only communicating with the computer with our code - we're also communicating with other developers who will have to read it later. Code should not be esoteric and complicated - it should be clear and simple.
+5. **Aesthetically pleasing.** Everyone prefers to read code that adheres to style conventions and is symmetrical on the page. Ruby is known as being one of the most beautiful programming languages - try to keep it that way.
 
 These are just a few of the most common reasons for refactoring code. Now, check out the resources below to learn about some specific concepts you can bring to your code when you look to refactor it.
 
