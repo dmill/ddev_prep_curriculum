@@ -27,7 +27,7 @@ Your Account is now all set up!
 1. Click on the button in your dashboard to "Create a new workspace".
 2. You can fill in whatever kind of name and description you want for your workspace.
 3. Leave your workspace public so you can easily share it with instructors and classmates.
-4. In the "Clone from Git or Mercurial URL" section, put in the URL for this repo (<git@github.com:dmill/ddev_prep_curriculum.git>).
+4. In the "Clone from Git or Mercurial URL" section, put in the URL for this repo (git@github.com:dmill/ddev_prep_curriculum.git).
 5. Under "Choose a template" select "Blank".
 6. Wait for your workspace container to fire up.
 
