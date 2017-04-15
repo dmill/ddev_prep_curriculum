@@ -69,4 +69,4 @@ With that, head over to [Part 0](part0_the_basics.md) and get ready to start lea
 
 [Part 9: HTML/CSS](part9_html_css.md)
 
-[Part 10: Want More?](part10_want_more?.md)
+[Part 10: Want More?](part10_want_more.md)
