@@ -22,7 +22,7 @@ This shorter tutorial will expand on the Code Academy intro course.
 
 Bootstrap is a CSS framework developed by Twitter to make designing a killer webpage much easier. Bootstrap provides us with a ton of tools out of the box to get our styling looking good quickly. The most important and useful feature of bootstrap is its support for multiple screen sizes (i.e. responsive design). Without a tool like Bootstrap, making your webpage look decent on multiple screen sizes can be a very tedious, bug-prone process. You should have had an intro to Bootstrap in the second Code Academy course above, but if you want to see more check out the following bootstrap tutorials. Some of the them are paid, so you're by no means required to do all of them. We just want to make sure that you have a good idea of the fundamentals of how it works:
 
-<https://teamtreehouse.com/library/building-websites-with-bootstrap-3-2>
+<https://teamtreehouse.com/library/bootstrap-4-basics>
 
 <https://www.codeschool.com/courses/blasting-off-with-bootstrap>
 

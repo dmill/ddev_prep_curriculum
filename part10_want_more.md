@@ -6,7 +6,7 @@ Finished everything in the curriculum and still want to hone your skills some mo
 
 <https://www.amazon.com/Beginning-Ruby-Novice-Professional-Experts/dp/1430223634>
 
-This is a great intor book that goes into more detail than the Chris Pine book. Check this out if you want more reading material. FYI you can probably find a free PDF of this book online. It's easy to find free versions of a lot of programming books, so if there's something you're interested in but you're short on cash use google! :)
+This is a great intro book that goes into more detail than the Chris Pine book. Check this out if you want more reading material. FYI you can probably find a free PDF of this book online. It's easy to find free versions of a lot of programming books, so if there's something you're interested in but you're short on cash use google! :)
 
 ## The Rest of Practical Object-Oriented Design in Ruby
 
