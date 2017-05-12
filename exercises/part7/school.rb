@@ -4,17 +4,12 @@
 #
 # ## Instructions
 # 1. Run `bundle install` in the root directory of the project.
-# 2. Run the specs one at a time in this order:
+# 2. Run the tests (see below)
 #
 # ```bash
-# bundle exec rspec spec/student_spec.rb
-# bundle exec rspec spec/course_spec.rb
-# bundle exec rspec spec/extension_spec.rb
+# bundle exec rspec school_spec.rb
 # ```
 #
-# When you are finished with the extras, comment in line 7 in the
-# `spec/course_spec.rb` file and run all of the specs at once with `bundle
-# exec rspec`. Make sure everything passes!
 #
 # ## Student
 # * `Student#initialize` should take a first and last name.
