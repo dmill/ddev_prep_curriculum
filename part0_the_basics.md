@@ -20,12 +20,8 @@ Each of the problems also has a link to a solution we've put together, and many 
 
 Additionally, if you begin to struggle with any of the problems. Try a) going back and reviewing Code Academy and the DDev Guide. b) check out Ruby Monk and Code School below for additional review. c) Reach out to the the rest of the community on Slack and ask for help! You can also reach out to me personally on slack @doug or via email at doug@destinationdev.com.
 
-## Ruby Monk & Code School
-
-<https://rubymonk.com/learning/books/1-ruby-primer>
+## Code School
 
 <https://www.codeschool.com/courses/try-ruby>
-
-It is imperative that each of you feels very solid with the basic programming concepts presented in the DDev guide and Code Academy lessons above. As such, we're also going to have you take a look at a few more free resources online to make sure that it's all sticking. First, take a look at [Ruby Monk](https://rubymonk.com/learning/books/1-ruby-primer), and try out their **Ruby Primer** course. You can stop at the section on Hashes - we'll get into the later material further into our prep.
 
 Next, check out [Code School](https://www.codeschool.com/courses/try-ruby) and their free *Try Ruby* course. This Code School course will get into some topics that we haven't covered yet, but I recommend going through all of it and learning a few new things. If you like Code School, you can also get a monthly membership and try out some of their other paid courses, but this is not required.

@@ -12,10 +12,6 @@ This is a great intro book that goes into more detail than the Chris Pine book. 
 
 <http://www.poodr.com/>
 
-or
-
-<https://github.com/edenzik/cs105b/blob/master/books/Practical%20Object-Oriented%20Design%20in%20Ruby.pdf>
-
 You should have already read chapters 1 and 2, but looking through the rest of this book will familiarize you with a lot of other important, more advanced concepts in OO design.
 
 ## Ruby Warrior by Bloc.io
@@ -23,12 +19,6 @@ You should have already read chapters 1 and 2, but looking through the rest of t
 Here's a fun programming game by Bloc.io that will help you continue to practice these concepts with a bit of a different twist:
 
 <https://www.bloc.io/ruby-warrior#/>
-
-## Ruby Monk
-
-<https://rubymonk.com/>
-
-Go over the rest of what Ruby Monk has to offer. We didn't do the whole thing, and there is a lot more valuable material here.
 
 ## Problems
 
@@ -43,5 +33,3 @@ Go over the rest of what Ruby Monk has to offer. We didn't do the whole thing, a
 ## Ask Me!
 
 Already finished or bored with the stuff above? Need specific practice or help on a particular concept? Shoot me an email or hit me up on Slack and I'll help you out. I can give you tips or hook you up with other resources if you need them.
-
-

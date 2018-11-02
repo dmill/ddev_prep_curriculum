@@ -10,10 +10,6 @@ Without further adieu, here are some resources to check out to familiarize yours
 ### Launch School Blocks and Procs
 <https://launchschool.com/books/ruby/read/more_stuff#blocksandprocs>
 
-### Ruby Monk - Lambdas and Blocks
-
-<https://rubymonk.com/learning/books/1-ruby-primer/chapters/34-lambdas-and-blocks-in-ruby/lessons/77-lambdas-in-ruby>
-
 ### Reactive.IO - Understanding Blocks, Procs and Lambdas
 
 <http://www.reactive.io/tips/2008/12/21/understanding-ruby-blocks-procs-and-lambdas>
